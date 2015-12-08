@@ -7,7 +7,7 @@ AndroidExercises
 4.	Display Webpage (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-CheongJunLae)
 5.	Linking Android Activities (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-CheongJunLae )
 6.	WeekDay App using Date Picker Fragment (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-CheongJunLae )
-7.	Stopwatch App (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp- CheongJunLae )
+7.	Stopwatch App (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-CheongJunLae )
 8.	Email App - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-CheongJunLae )
 9.	Text-to-Speech App (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-CheongJunLae)
 10.	MyMusic App - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-CheongJunLae)
