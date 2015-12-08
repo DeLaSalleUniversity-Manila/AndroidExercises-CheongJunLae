@@ -82,10 +82,10 @@ AndroidExercises
 79.	Native Bitmap Access (https://github.com/DeLaSalleUniversity-Manila/nativebitmap-CheongJunLae)
 80.	Image Histogram 
 81.	Adaptive Thresholding 
-82.	DISMATH Refresher App 
+82.	DISMATH Refresher App  (https://github.com/DeLaSalleUniversity-Manila/finalproject2015-rohit0000)
 83.	Full Body Detection 
 84.	Histogram of Gradients (HOG) Features Consensus-based Matching and Tracking in Android (CMT Tracker) 
-85.	Tesseract OCR Demo 
+85.	Tesseract OCR Demo  (https://github.com/DeLaSalleUniversity-Manila/finalproject2015-rohit0000)
 86.	CMT Tracker with AKAZE Features 
 87.	CMT Tracker with ORB Features 
 88.	San Angeles (https://github.com/DeLaSalleUniversity-Manila/sanangeles-CheongJunLae)
