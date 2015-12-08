@@ -52,7 +52,7 @@ AndroidExercises
 49.	Pedestrian Detection 
 50.	Voronoi Effects 
 51.	FANN Library in Android 
-52.	Hello JNI Sample 
+52.	Hello JNI Sample (https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-CheongJunLae)
 53.	Sensor (Accelerometer) graph with OpenGL (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-CheongJunLae)
 54.	Hello GL2 (https://github.com/DeLaSalleUniversity-Manila/hellogl2-CheongJunLae)
 55.	Bitmap Plasma (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-CheongJunLae)
