@@ -63,7 +63,7 @@ AndroidExercises
 60.	ORB Features OpenCV with Android Experimental Gradle Plugin 
 61.	BRISK Features OpenCV with Android Experimental Gradle Plugin 
 62.	AKAZE Features OpenCV with Android Experimental Gradle Plugin 
-63.	OpenCV 3.0 Android Camera Calibration 
+63.	OpenCV 3.0 Android Camera Calibration (https://github.com/DeLaSalleUniversity-Manila/opencvcameracalibrationsample-CheongJunLae)
 64.	Filter2D 
 65.	ContoursDemo 
 66.	Circle Detection 
