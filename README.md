@@ -30,7 +30,7 @@ AndroidExercises
 27.	Breast Cancer Awareness App (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-CheongJunLae)
 28.	OpenCV 3.0 Camera Preview Example (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-CheongJunLae)
 29.	OpenCV 3.0 15-Tile Camera Puzzle (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-CheongJunLae)
-30.	Image Local Binary Pattern 
+30.	Image Local Binary Pattern (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-CheongJunLae)
 31.	OpenCV 3.0 Mixed-Signal Processing 
 32.	OpenCV 3.0 Face Detection Sample 
 33.	OpenCV 3.0 Image Manipulations (https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-CheongJunLae)
