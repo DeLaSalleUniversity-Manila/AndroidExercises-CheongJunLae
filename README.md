@@ -53,7 +53,7 @@ AndroidExercises
 50.	Voronoi Effects 
 51.	FANN Library in Android 
 52.	Hello JNI Sample 
-53.	Sensor (Accelerometer) graph with OpenGL 
+53.	Sensor (Accelerometer) graph with OpenGL (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-CheongJunLae)
 54.	Hello GL2 (https://github.com/DeLaSalleUniversity-Manila/hellogl2-CheongJunLae)
 55.	Bitmap Plasma (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-CheongJunLae)
 56.	Teapot Render (https://github.com/DeLaSalleUniversity-Manila/teapotrender-CheongJunLae)
