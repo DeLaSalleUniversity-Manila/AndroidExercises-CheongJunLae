@@ -22,7 +22,7 @@ AndroidExercises
 19.	Screen Slides (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-CheongJunLae)
 20.	ViewPager with Text-to-Speech Demo (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-CheongJunLae)
 21.	Play Video (https://github.com/DeLaSalleUniversity-Manila/playvideo-CheongJunLae)
-22.	SQLiteDatabase (https://classroom.github.com/assignment-invitations/6325632ed2323494d1b359be5399558f)
+22.	SQLiteDatabase (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-CheongJunLae)
 23.	Mini-database with Text file 
 24.	Settings Activity (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-CheongJunLae)
 25.	WorkoutFragmentDemo (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-CheongJunLae)
