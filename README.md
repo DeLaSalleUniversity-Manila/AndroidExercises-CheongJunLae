@@ -27,7 +27,7 @@ AndroidExercises
 24.	Settings Activity (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-CheongJunLae)
 25.	WorkoutFragmentDemo (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-CheongJunLae)
 26.	Grocery App 
-27.	Breast Cancer Awareness App (https://classroom.github.com/assignfbitment-invitations/6b5bd9a716af916bf660f5b95318f678)
+27.	Breast Cancer Awareness App (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-CheongJunLae)
 28.	OpenCV 3.0 Camera Preview Example (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-CheongJunLae)
 29.	OpenCV 3.0 15-Tile Camera Puzzle (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-CheongJunLae)
 30.	Image Local Binary Pattern 
