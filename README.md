@@ -41,7 +41,7 @@ AndroidExercises
 38.	Android Camera Bitmap Access through JNI 
 39.	Cat Face Detection 
 40.	QR and Bar Code Reader 
-41.	OpenCV 3.0 Camera Control 
+41.	OpenCV 3.0 Camera Control (https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-CheongJunLae)
 42.	OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity) 
 43.	FAST Keypoints 
 44.	AKAZE Keypoints 
