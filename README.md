@@ -7,7 +7,7 @@ AndroidExercises
 4.	Display Webpage (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-CheongJunLae)
 5.	Linking Android Activities (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-CheongJunLae )
 6.	WeekDay App using Date Picker Fragment (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-CheongJunLae )
-7.	Stopwatch App (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-CheongJunLae )
+7.	Stopwatch App (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-CheongJunLae)
 8.	Email App - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-CheongJunLae )
 9.	Text-to-Speech App (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-CheongJunLae)
 10.	MyMusic App - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-CheongJunLae)
@@ -31,7 +31,7 @@ AndroidExercises
 28.	OpenCV 3.0 Camera Preview Example (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-CheongJunLae)
 29.	OpenCV 3.0 15-Tile Camera Puzzle (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-CheongJunLae)
 30.	Image Local Binary Pattern (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-CheongJunLae)
-31.	OpenCV 3.0 Mixed-Signal Processing 
+31.	OpenCV 3.0 Mixed-Signal Processing (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-CheongJunLae)
 32.	OpenCV 3.0 Face Detection Sample 
 33.	OpenCV 3.0 Image Manipulations (https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-CheongJunLae)
 34.	Get Current Location and Place a Marker (https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-CheongJunLae)
